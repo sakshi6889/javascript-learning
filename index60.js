@@ -1,0 +1,13 @@
+let a="asakshi"
+console.log(a.charAt())
+// console.log(a.toLocaleLowerCase())
+// // console.log(a.codePointAt(2))
+// console.log(a.concat(2))
+// console.log(a.endsWith("sh"))
+// console.log(a.indexOf("s"))
+// console.log(a.length)
+// // console.log(a.localeCompare("a"))
+// console.log(a.includes("a"))
+// console.log(a.replace("s", "w"))
+// console.log(a.trim("a"))
+// console.log(a.toString("s"))
